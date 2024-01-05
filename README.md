@@ -48,21 +48,12 @@
 <br />
 
  #### &#x1f4c8; GitHub Stats
-<p align="center" >
-  <a href="https://github.com/olesia1205">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olesia1205&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Olesia's GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/olesia1205/olesia1205">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=olesia1205&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Olesia's GitHub Stats" />
-  </a> 
+<p align="center" >  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olesia1205&exclude_repo=ono-tebe-nado,marathon_frontend,how-to-learn,olesia1205.github.io&langs_count=8&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Olesia's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olesia1205&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Olesia's GitHub Stats" />  
 </p>
 <br />
 
 <a href="https://www.codewars.com/users/olesia1205">
   <img alt="codewars" src="https://www.codewars.com/users/olesia1205/badges/small">
 </a>
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olesia1205&layout=compact)](https://github.com/olesia1205/github-readme-stats)
--->
